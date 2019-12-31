@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -101,4 +101,4 @@ python manage.py runserver
 |/api/posts/[id]|`GET`|특정 id의 글을 조회합니다.||{Post}|
 |/api/posts/[id]|`DELETE`|특정 id의 글을 삭제합니다.|||
 
->>>>>>> be1a99557cf0e2768ff300aecb6786b0f5fa229a
+
